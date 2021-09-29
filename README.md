@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Ali Safi
-- A Researcher in Both Mechanical and Control Engineering, Also Interested in Mechatronics and Automation
+- A Researcher in Both Mechanical and Control Engineering
+- Also Interested in Mechatronics and Automation
 - Highly Experienced in MATLAB and Arduino Programming
 - English as a Second Language
 - Capable of Designing Electrical Circuits and Applying Control Theories in Real Life.
-- Also, currently learning Python
-- You can E-mail me at Ali.safi.eng@gmail.com
+- Currently working on my Python Language Programming
+- You Can E-mail Me at Ali.safi.eng@gmail.com
