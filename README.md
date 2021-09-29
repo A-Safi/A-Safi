@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Ali Safi
-- I’m interested in Control theory and Mechatronics
-- I'm an expert in MATLAB and Arduino programing languages
-- Also, I'm currently learning Python
+- A Researcher in Both Mechanical and Control Engineering, Also Interested in Mechatronics and Automation
+- Highly Experienced in MATLAB and Arduino Programming
+- English as a Second Language
+- Capable of Designing Electrical Circuits and Applying Control Theories in Real Life.
+- Also, currently learning Python
 - You can E-mail me at Ali.safi.eng@gmail.com
